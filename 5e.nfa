@@ -4,5 +4,4 @@ accepting: {Q2}
 
 Q0 (a-> Q2)(b-> Q1)
 Q1 (a-> Q2)(b-> Q1)
-Q2 (a-> Q2)(b-> Q2)
-
+Q2 (a-> Q2)(b-> Q1)
