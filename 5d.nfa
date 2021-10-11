@@ -1,0 +1,5 @@
+alphabet: {a,b}
+start: Q0
+accepting: {Q0}
+
+Q0 (_-> Q0)
